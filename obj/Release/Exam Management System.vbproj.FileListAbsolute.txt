@@ -1,0 +1,18 @@
+D:\Projects\Workspace\Exam Management System\bin\Release\Exam Management System.exe
+D:\Projects\Workspace\Exam Management System\bin\Release\Exam Management System.pdb
+D:\Projects\Workspace\Exam Management System\bin\Release\Exam Management System.xml
+D:\Projects\Workspace\Exam Management System\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam_Management_System.admincontrol.resources
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam_Management_System.form_admin_panel.resources
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam_Management_System.form_login.resources
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam_Management_System.FORM_SCHEDULE_VIEW.resources
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam_Management_System.form_studentpanel.resources
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam_Management_System.Resources.resources
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam Management System.vbproj.GenerateResource.Cache
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam Management System.exe
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam Management System.xml
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam Management System.pdb
+D:\Projects\Workspace\Exam Management System\bin\Release\Exam Management System.exe.manifest
+D:\Projects\Workspace\Exam Management System\bin\Release\Exam Management System.application
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam Management System.exe.manifest
+D:\Projects\Workspace\Exam Management System\obj\Release\Exam Management System.application

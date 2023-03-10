@@ -1,0 +1,16 @@
+D:\Projects\Workspace\Exam Management System\bin\Debug\Exam Management System.exe
+D:\Projects\Workspace\Exam Management System\bin\Debug\Exam Management System.pdb
+D:\Projects\Workspace\Exam Management System\bin\Debug\Exam Management System.xml
+D:\Projects\Workspace\Exam Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.form_login.resources
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.Resources.resources
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam Management System.vbproj.GenerateResource.Cache
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam Management System.exe
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam Management System.xml
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam Management System.pdb
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.form_admin_panel.resources
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.admincontrol.resources
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.FORM_SCHEDULE_VIEW.resources
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.FORM_MARKSHEET_VIEW.resources
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.FORM_ADMIT_VIEW.resources
+D:\Projects\Workspace\Exam Management System\obj\Debug\Exam_Management_System.form_student_panel.resources
