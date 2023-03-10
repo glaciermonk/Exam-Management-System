@@ -1,0 +1,20 @@
+Admin Table
+create table admin(username varchar(30), password varchar(20), PRIMARY KEY(username));
+
+Student Table
+create table student(rollno int(4), password varchar(30), name varchar(20), grade int(2), address varchar(50), phone int(10), email varchar(20), fathers_name varchar(20), mothers_name varchar(20), gender varchar(20), PRIMARY KEY(rollno));
+
+Exam Table
+create table exam(examid int AUTO_INCREMENT primary key NOT NULL, examtype varchar(20), rollno int(3));
+
+Result Table
+create table result(examtype varchar(20), rollno int(3), subject varchar(20), marks int(5), examid int(10));
+
+Schedule Table
+create table schedule(date date, examtype varchar(20), subject varchar(20));
+
+
+
+ SELECT `exam`.`examtype`, `exam`.`rollno`, `schedule`.`subject`, `student`.`name`
+ FROM   (`ems`.`exam` `exam` INNER JOIN `ems`.`schedule` `schedule` ON `exam`.`examtype`=`schedule`.`examtype`) INNER JOIN `ems`.`student` `student` ON `exam`.`rollno`=`student`.`rollno`
+
